@@ -1,0 +1,26 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-align: center;
+}
+input{
+    padding: 20px 40px;
+    background-color: coral;
+    border: 1px solid coral;
+    border-radius: 10px;
+    margin-top: 3rem;
+}
+button{
+    padding: 20px 30px;
+    background-color:darkgoldenrod;
+    border: 1px solid darkgoldenrod;
+    border-radius: 10px;
+    font-size: 15px;
+    font-weight: bold;
+
+}
+h1{
+    margin-top: 3rem;
+    
+}
